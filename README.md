@@ -8,6 +8,6 @@
 - [Lesson 6 Сериализация](https://github.com/romanova-nat/Serializable_javaCore_2)
 - [Lesson 7 Maven](https://github.com/romanova-nat/Maven_task_1)
 - [Lesson 8 CSV - JSON](https://github.com/romanova-nat/Csv-xml-json)
-- [Lesson 9 Unit-тесты]( [Lesson 9 Unit-тесты](https://github.com/romanova-nat/Homework_Unit_Tests)
-- [Lesson 10 Mockito](https://github.com/romanova-nat/Mockito_GeoService)
+- [Lesson 9 Unit-тесты](https://github.com/romanova-nat/Homework_Unit_Tests)
+- [Lesson 10 Mockito](https://Github.com/romanova-nat/Mockito_GeoService)
 - [Lesson 11 Модель OSI](https://github.com/romanova-nat/ClientServer)
